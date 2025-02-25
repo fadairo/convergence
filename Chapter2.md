@@ -134,5 +134,3 @@ _Remember: The framework that fits perfectly is probably hiding something._
 
 [Chapter 1: The Great Enterprise Delusion](Chapter1.md)
 [Chapter 3: The Great Enterprise Delusion](Chapter3.md)
-
-#
